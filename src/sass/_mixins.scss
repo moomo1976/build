@@ -1,0 +1,10 @@
+
+// Fonty
+@mixin reg {
+    font-family: 'Museo sans Light', sans-serif;
+    font-weight: 300;
+}
+@mixin  bold {
+    font-family: 'Museo sans Bold', sans-serif;
+    font-weight: 700;
+}
